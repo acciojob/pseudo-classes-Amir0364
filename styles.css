@@ -1,21 +1,26 @@
 /*  your css code here. If applicable */
 *{
-	background-color: rgb(135, 206, 235)
+	background-color: rgb(135, 206, 235);
 }
 #eg1{
 	background-color: white;
+	width: 300px;
 }
 #eg2{
 	background-color: grey;
+	width: 300px;
 }
 #eg3{
 	background-color: lightpink;
+	width: 300px;
 }
 #eg4{
 	background-color: grey;
+	width: 300px;
 }
 #eg5{
 	background-color: white;
+	width: 300px;
 }
 #eg6{
 	color: red;
