@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(135, 206, 235)
+}
+#eg1{
+	background-color: white;
+}
+#eg2{
+	background-color: grey;
+}
+#eg3{
+	background-color: lightpink;
+}
+#eg4{
+	background-color: grey;
+}
+#eg5{
+	background-color: white;
+}
+#eg6{
+	color: red;
+
+}
