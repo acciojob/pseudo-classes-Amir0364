@@ -1,28 +1,40 @@
 /*  your css code here. If applicable */
 *{
 	background-color: rgb(135, 206, 235);
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
 #eg1{
 	background-color: white;
 	width: 300px;
+	margin-left: 20px;
 }
 #eg2{
 	background-color: grey;
 	width: 300px;
+	margin-left: 20px;
 }
 #eg3{
 	background-color: lightpink;
 	width: 300px;
+	margin-left: 20px;
 }
 #eg4{
 	background-color: grey;
 	width: 300px;
+	margin-left: 20px;
 }
 #eg5{
 	background-color: white;
 	width: 300px;
+	margin-left: 20px;
 }
 #eg6{
 	color: red;
 
+}
+#eg7{
+	color: white;
+	background-color: black;
 }
